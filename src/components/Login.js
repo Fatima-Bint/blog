@@ -12,7 +12,10 @@ function Login() {
                 <p>Please login to view our amazing contents</p>
             </div>
              <div class = 'login'>
+            <div className = 'pic'>
             <img class = 'logo' src ={logo} alt ='logo'/>
+            </div>
+            
 
             <fieldset class = 'form'>
             <h2>Login</h2>
